@@ -1,0 +1,31 @@
+
+
+.tttbtn{
+  background-color: #e7e7e7;
+  width: 200px;
+  height: 200px;
+  border: none;
+  color: white;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  vertical-align: baseline;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 120px;
+  margin: 4px 4px 4px 4px;
+  cursor: pointer;
+}
+.tttbtn:hover{
+  background-color: lightgray;
+}
+
+.w3-lobster {
+  font-family: "Lobster", Sans-serif;
+}
+
+table {
+  margin: auto;
+  border: 1px solid darkgray;
+  background-color: darkgray;
+  padding: 5px 5px 5px 5px;
+}
